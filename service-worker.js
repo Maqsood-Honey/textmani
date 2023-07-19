@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/.github.io/textmani/precache-manifest.d78321d708f8d24d496a17f34b2fad58.js"
+  "/textmani/precache-manifest.2d9e4238e7a47166c147bd0b6b561046.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/.github.io/textmani/index.html", {
+workbox.routing.registerNavigationRoute("/textmani/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

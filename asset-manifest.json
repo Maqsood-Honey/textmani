@@ -1,15 +1,15 @@
 {
-  "main.css": "/.github.io/textmani/static/css/main.bc6b12b6.chunk.css",
-  "main.js": "/.github.io/textmani/static/js/main.8013cd35.chunk.js",
-  "main.js.map": "/.github.io/textmani/static/js/main.8013cd35.chunk.js.map",
-  "static/css/1.5c7cf17a.chunk.css": "/.github.io/textmani/static/css/1.5c7cf17a.chunk.css",
-  "static/js/1.e76e1fdd.chunk.js": "/.github.io/textmani/static/js/1.e76e1fdd.chunk.js",
-  "static/js/1.e76e1fdd.chunk.js.map": "/.github.io/textmani/static/js/1.e76e1fdd.chunk.js.map",
-  "runtime~main.js": "/.github.io/textmani/static/js/runtime~main.14e75534.js",
-  "runtime~main.js.map": "/.github.io/textmani/static/js/runtime~main.14e75534.js.map",
-  "static/css/main.bc6b12b6.chunk.css.map": "/.github.io/textmani/static/css/main.bc6b12b6.chunk.css.map",
-  "static/css/1.5c7cf17a.chunk.css.map": "/.github.io/textmani/static/css/1.5c7cf17a.chunk.css.map",
-  "index.html": "/.github.io/textmani/index.html",
-  "precache-manifest.d78321d708f8d24d496a17f34b2fad58.js": "/.github.io/textmani/precache-manifest.d78321d708f8d24d496a17f34b2fad58.js",
-  "service-worker.js": "/.github.io/textmani/service-worker.js"
+  "main.css": "/textmani/static/css/main.bc6b12b6.chunk.css",
+  "main.js": "/textmani/static/js/main.8013cd35.chunk.js",
+  "main.js.map": "/textmani/static/js/main.8013cd35.chunk.js.map",
+  "static/css/1.5c7cf17a.chunk.css": "/textmani/static/css/1.5c7cf17a.chunk.css",
+  "static/js/1.e76e1fdd.chunk.js": "/textmani/static/js/1.e76e1fdd.chunk.js",
+  "static/js/1.e76e1fdd.chunk.js.map": "/textmani/static/js/1.e76e1fdd.chunk.js.map",
+  "runtime~main.js": "/textmani/static/js/runtime~main.eae4aa3f.js",
+  "runtime~main.js.map": "/textmani/static/js/runtime~main.eae4aa3f.js.map",
+  "static/css/main.bc6b12b6.chunk.css.map": "/textmani/static/css/main.bc6b12b6.chunk.css.map",
+  "static/css/1.5c7cf17a.chunk.css.map": "/textmani/static/css/1.5c7cf17a.chunk.css.map",
+  "index.html": "/textmani/index.html",
+  "precache-manifest.2d9e4238e7a47166c147bd0b6b561046.js": "/textmani/precache-manifest.2d9e4238e7a47166c147bd0b6b561046.js",
+  "service-worker.js": "/textmani/service-worker.js"
 }
